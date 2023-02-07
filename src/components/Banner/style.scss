@@ -1,0 +1,50 @@
+.first{
+  height: 1384px;
+}
+.firstSectionTop{
+  width: 409px;
+  height: 30px;
+  margin: 63px auto 0;
+  display: flex;
+  justify-content: space-between;
+font-size: 19px;
+}
+.bannerLine{
+  width: 200px;
+  height: 1px;
+  background-color: #9181FF;
+  margin: 60px auto;
+}
+.bannerH1{
+  width: 1031px;
+  height: 150px;
+ margin: 0 auto;
+  top: 93px;
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 75px;
+  text-align: center;
+}
+.bannerText{
+  width: 773px;
+  height: 84px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.25px;
+  color: #7F8893;
+  margin: 32px auto;
+}
+.btnBlock{
+  width: fit-content;
+  margin: 42px auto;
+}
+.bannerImage{
+  width: fit-content;
+  margin: 0 auto;
+}

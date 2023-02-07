@@ -1,0 +1,126 @@
+.thirdSection{
+  height: 1555px;
+  padding-left: 120px;
+  padding-top: 120px;
+}
+.designTop{
+  display: flex;
+}
+.designText{
+  height: 24px;
+  font-family: 'Unica One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  margin-right: 15px;
+}
+.designLine{
+  width: 120px;
+  height: 1px;
+  background-color: #9181FF;
+}
+.designLeft{
+  margin-right: 50px;
+}
+.designLeft, .designRight{
+  width: 575px;
+}
+.designLeft div:nth-child(1){
+  display: flex;
+  align-items: center;
+}
+.designLeft div:nth-child(2) p{
+  margin-top: 20px;
+  color: #373C42;
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+}
+.designRight p:nth-child(1),.designRightLink{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #373C42;
+}
+.designRight p:nth-child(1){
+  margin-bottom: 35px;
+}
+.designRight div{
+  width: 109px;
+  height: 1px;
+  background-color: #373C42;
+}
+.designItemBlock{
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 86px;
+}
+.designItem{
+  width: 366px;
+  height: 496px;
+  //background-color: red;
+  //border: 1px solid black;
+}
+.designItemTop{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 69px;
+}
+.designItemBottom{
+  width: 100%;
+  display: flex;
+}
+.designItemBottom .designItem{
+  margin-right: 50px;
+}
+.designItemInfo{
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+.designNumber{
+  height: 24px;
+  font-family: 'Unica One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 24px;
+  color: #373C42;
+  margin-right: 15px;
+}
+.designItemLine{
+  width: 120px;
+  height: 1px;
+  background-color: #9181FF;
+}
+.designItemHeader{
+  //width: 152px;
+  height: 36px;
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 36px;
+  color: #373C42;
+  margin-top: 15px;
+}
+.designItemText{
+  height: 100px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #373C42;
+margin-top: 10px;
+}
+
+
+
